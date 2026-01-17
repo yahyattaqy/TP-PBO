@@ -1,0 +1,12 @@
+======== STRUK PEMBELIAN ========
+Tanggal: 14/01/2026 11:17
+================================
+Papan Ujian x2 = Rp 50,000
+================================
+Subtotal: Rp 50,000
+Diskon (15.0%): - Rp 7,500
+Total Harga: Rp 42,500
+Nominal Bayar: Rp 50,000
+Kembalian: Rp 7,500
+================================
+Terima Kasih!

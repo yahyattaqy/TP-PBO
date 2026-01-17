@@ -1,0 +1,13 @@
+======== STRUK PEMBELIAN ========
+Tanggal: 16/01/2026 14:46
+================================
+Stik Lem x6 = Rp 36,000
+Map Belanko x30 = Rp 60,000
+================================
+Subtotal: Rp 96,000
+Diskon (20.0%): - Rp 19,200
+Total Harga: Rp 76,800
+Nominal Bayar: Rp 100,000
+Kembalian: Rp 23,200
+================================
+Terima Kasih!
